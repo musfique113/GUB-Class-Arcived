@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>LAcademy </title>
+    <title>GUBCA </title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- links for the navbar that i've made  -->
@@ -94,12 +94,12 @@
                 <li class="comment">
 
                   <div class="vcard bio">
-                    <img src="../../../images/comment1.jpg" alt="Image placeholder">
+                    <img src="../../../images/person.jpg" alt="Image placeholder">
                   </div>
 
                   <div class="comment-body">
-                    <h3>Karim Mejri</h3>
-                    <div class="meta">June 9, 2020 at 2:21pm</div>
+                    <h3>Shoeb Sikder</h3>
+                    <div class="meta">Sep 9, 2022 at 2:21pm</div>
                     <p>Great course for beginners .</p>
                   </div>
                 </li>
@@ -107,12 +107,12 @@
                 <li class="comment">
 
                   <div class="vcard bio">
-                    <img src="../../../images/comment2.jpg" alt="Image placeholder">
+                    <img src="../../../images/Fahad.jpg" alt="Image placeholder">
                   </div>
 
                   <div class="comment-body">
-                    <h3>Sarra Rajhi</h3>
-                    <div class="meta">July 18, 2020 at 8:21am</div>
+                    <h3>Fahad Islam</h3>
+                    <div class="meta">Sep 10, 2022 at 8:21am</div>
                     <p>I needed this to refresh my memory .Thank you for this amazing content!!</p>
                   </div>
 
@@ -142,13 +142,13 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <h3>About LAcademy</h3>
+            <h3>About GUBCA</h3>
             <p>An E-Learning platform rich of resources, We make learning easy and simple for Everyone.</p>
           </div>
 
           <div class="col-md-4">
             <h3>Subscribe</h3>
-            <p>Keep yourself up to date and receive all kind of news about LAcademy.</p>
+            <p>Keep yourself up to date and receive all kind of news about GUBCA.</p>
             <form action="https://mailchi.mp/064deb47eeaa/lacdemy" target="_blank" class="footer-subscribe">
               <div class="d-flex mb-5">
 

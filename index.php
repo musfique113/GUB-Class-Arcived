@@ -43,7 +43,7 @@
               <ul class="site-menu main-menu js-clone-nav mx-auto d-none d-lg-block  m-0 p-0">
                 <li><a href="#home-section" class="nav-link">Home</a></li>
                 <li><a href="#courses-section" class="nav-link">Courses</a></li>
-                <li><a href="#Our-section" class="nav-link">Our Team</a></li>
+                <li><a href="#Our_Team-section" class="nav-link">Our Team</a></li>
               </ul>
             </nav>
           </div>
@@ -304,9 +304,9 @@
         </div>
       </div>
     </div>
-
-        <div class="row mb-12 justify-content-center">
-          <div class="col-lg-8 mb-4 text-center"  data-aos="fade-up" data-aos-delay="">
+    
+    <div class="row mb-5 justify-content-center">
+          <div class="col-lg-7 mb-5 text-center"  data-aos="fade-up" data-aos-delay="">
             <h2 class="section-title">Our Team</h2>
             <p class="mb-5">The best we promise the best we are !</p>
           </div>
@@ -314,9 +314,9 @@
 
         <div class="row">
 
-          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
+        <div class="col-md-12 col-lg-3 mb-3" data-aos="fade-up" data-aos-delay="100">
             <div class="Developer text-center">
-            <img src="images/person.jpg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
+            <img src="images/person.jpg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-3">
               <div class="py-2">
                 <h3 class="text-black">Shoeb Sikder Pappu</h3>
                 <p class="position">WEB Developer</p>
@@ -325,33 +325,31 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <div class="teacher text-center">
-              <img src="images/jubayer.jpg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
+          <div class="col-md-12 col-lg-3 mb-3" data-aos="fade-up" data-aos-delay="100">
+            <div class="Developer text-center">
+              <img src="images/jubayer.jpg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-3">
               <div class="py-2">
                 <h3 class="text-black">jubayer Rafshan</h3>
+                <p class="position">AI Developer</p>
                 
               </div>
             </div>
           </div>
 
-          <div class="col-md-4 col-lg-4" data-aos="fade-up" data-aos-delay="300">
-            <div class="teacher text-center">
-              <img src="images/Fahad.jpg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
+          <div class="col-md-12 col-lg-3 mb-3" data-aos="fade-up" data-aos-delay="100">
+            <div class="Developer text-center">
+              <img src="images/Fahad.jpg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-3">
               <div class="py-2">
                 <h3 class="text-black">Fahad Islam</h3>
                 <p class="position">Web Developer</p>
                 
-              </div>
-            </div>
           </div>
-        </div>
       </div>
     </div>
 
-    <div class="col-md-4 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="300">
-            <div class="teacher text-center">
-              <img src="images/Musfique1.jpg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
+    <div class="col-md-12 col-lg-3 mb-3" data-aos="fade-up" data-aos-delay="100">
+            <div class="Developer text-center">
+              <img src="images/Musfique1.jpg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-">
               <div class="py-2">
                 <h3 class="text-black">Mahfujur Rahman Musfique</h3>
                 <p class="position">Web Developer</p>
@@ -364,6 +362,7 @@
     </div>
 <div class="site-section bg-light" id="contact-section">
       <div class="container">
+
 
        
 
