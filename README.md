@@ -2,9 +2,10 @@ For the front end : html , css , javascript and bootstrap (a framework) .
 For the back end we used : php and databases .
 
 In order for this website to work properly you need to  ( we will run it locally ): 
+
 1) Install a software that will run the php code : we propose WAMP or XAMPP 
 
-2)Run WAMP or XAMPP
+2) Run WAMP or XAMPP
 
 3) Set the database necessary for the sign in / sign up system to work properly and to be able to change the profile picture within this website : 
 	a/Open your browser ( we recommand opera for minimum bugs that you may face )
@@ -12,7 +13,7 @@ In order for this website to work properly you need to  ( we will run it locally
 				                  password : (leave it empty )
 then click on "go" 
 
- 4)click on "Databases" then write inside the Database Name : "loginsystemtut" then click on "create"
+4)click on "Databases" then write inside the Database Name : "loginsystemtut" then click on "create"
 
 5)click on the "SQL" tab up top and then write this SQL code to create the first table :
  
